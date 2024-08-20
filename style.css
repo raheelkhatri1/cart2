@@ -6,8 +6,8 @@
 }
 .img{
     width: 200px;
-    border-radius: 135px 15px 15px 15px;
-    height: 250px; 
+    border-radius: 135px 15px 0px 0px;
+    height: 225px;
 }
 #main__div{
     width: 100%;
@@ -16,6 +16,13 @@
     justify-content: center;
     align-content: center;
     margin-top: 50px; 
+}
+.rupeey{
+    margin-top: -18px;
+    margin-left: 138px;
+    background-color: rgb(1 165 252);
+    color: white;
+
 }
 
 .imgdiv{
@@ -38,9 +45,10 @@
 }
 .h5{
     background-color: white;
-    font-size: 25px;
+    font-size: 15px;
     padding-left: 25px;
     margin-top: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .h6{
     background-color: white;
